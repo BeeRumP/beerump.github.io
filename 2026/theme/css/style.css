@@ -80,15 +80,15 @@ a, a:hover {
 }
 
 .highlight-link {
-    color: revert;
+    color: #e6a800;
     font-weight: bold;
 }
 .highlight-link:hover {
-    color: revert;
+    color: #cc9400;
     text-decoration: underline;
 }
 .highlight-link:visited {
-    color: revert;
+    color: #9a7000;
 }
 
 .entry-content a {
