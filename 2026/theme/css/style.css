@@ -79,6 +79,18 @@ a, a:hover {
     color: inherit;
 }
 
+.highlight-link {
+    color: revert;
+    font-weight: bold;
+}
+.highlight-link:hover {
+    color: revert;
+    text-decoration: underline;
+}
+.highlight-link:visited {
+    color: revert;
+}
+
 .entry-content a {
     text-decoration: none;
     border-bottom: 1px dotted;
